@@ -684,7 +684,7 @@ cursor: pointer;
 }
 
 .modal-field {
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 
 .modal-input {
@@ -734,7 +734,7 @@ cursor: pointer;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing:0.04em;
-
+    border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
     color: rgba(46, 47, 66, 0.4);
     background-color: transparent;
