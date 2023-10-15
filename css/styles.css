@@ -679,7 +679,7 @@ cursor: pointer;
     text-align: center;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     margin-bottom: 16px;
 }
 
@@ -718,7 +718,6 @@ cursor: pointer;
     display: block;
     color: #8E8F99;
     font-size: 12px;
-    font-weight: 400;
     line-height: 1.17;
     letter-spacing: 0.04em;
     margin-bottom: 4px;
@@ -785,7 +784,7 @@ input[type="checkbox"]:checked+label>span {
 }
 
 .checkbox-svg {
-    fill:transparent
+ fill: #F4F4FD;
 }
 
 .privacy-policy {
